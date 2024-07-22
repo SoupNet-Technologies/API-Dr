@@ -1,0 +1,1 @@
+{"help": "Get some verses or passages", "req": "{\"random\":\"verse\"}", "url": "https://bible-api.com/"}
