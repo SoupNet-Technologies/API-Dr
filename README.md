@@ -1,6 +1,6 @@
-# SNT API Doctor
+# API Doctor
 
-SNT API Doctor is a Python application designed to manage and interact with various REST APIs and comes with some public APIs. It comes with a GUI to add, view, edit, and send API requests.
+API Doctor is designed to manage and interact with various REST APIs and comes with some public APIs. It comes with a GUI to add, view, edit, and send API requests.
 
 ## Features
 
@@ -27,8 +27,8 @@ pip install requests
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/snt-api-doctor.git
-   cd snt-api-doctor
+   git clone https://github.com/SoupNet-Technologies/apidr.git
+   cd apidr
    ```
 
 2. **Run the Script:**
