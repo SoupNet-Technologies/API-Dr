@@ -27,7 +27,7 @@ pip install requests
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SoupNet-Technologies/apidr.git
+   git clone https://github.com/SoupNet-Technologies/API-Dr.git
    cd apidr
    ```
 
